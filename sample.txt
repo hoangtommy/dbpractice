@@ -1,0 +1,4 @@
+hello file
+some mo text
+3rd line
+4th line
